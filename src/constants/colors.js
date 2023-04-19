@@ -1,0 +1,33 @@
+export const White = '#ffffff';
+export const Black = '#000';
+export const Brazilian_Green = '#23695D';
+export const PlaceHolder = '#23695D7D';
+export const LightGreen = '#23695D';
+export const Red = '#FF0000';
+export const Medium_Red = '#B90000';
+export const Light_Coral = '#FF8181';
+export const LightDark = 'rgba(0, 0, 0, 0.1)';
+export const lightGray = '#F4F4F4';
+export const lightBlack = '#8B8B8B';
+export const Gray73 = '#BABABA';
+export const gray = '#9C9C9C';
+export const notification = 'rgba(255, 101, 101, 1)';
+export const BlackText = 'rgba(23, 23, 23, 1)';
+export const BlackText2 = 'rgba(67, 67, 67, 1)';
+export const ExpenseBtnColor = '#FF3F3F';
+export const Trinided = '#2198c3';
+export const Viking = '#b1e4eb';
+export const Biscay = '#1a3a64';
+export const ArtyClick = '#747dee';
+export const Medium_Dark = '#396b90';
+export const Tanzanite = '#124970';
+export const Tanzanite2 = '#193f70';
+// export const g1 = 'rgba(28,83,140,255)';
+export const g1 = '#2198c3';
+export const g2 = 'rgba(28,99,128,0.09)';
+export const Purple_Anxiety = '#823d6a';
+export const Purple_Anxiety2 = '#562e56';
+export const Spicy_Berry = '#fa05ef';
+export const Boat_Orchid = '#f60f3e';
+
+//new
